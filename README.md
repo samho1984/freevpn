@@ -11,7 +11,7 @@
 | 独角兽   | BGP，CN2，IEPL优化，部分节点解锁流媒体     | 6.8元起，有流量套餐、月付套餐,1元=7-13G，IEPL2倍率      | [https://91unicorn.cloud/](https://91unicorn.cloud/) | 
 
 
-如果好用请点个 start ★
+如果好用请点个 star ★
 
 
 ## 客户端推荐
