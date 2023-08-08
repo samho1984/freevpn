@@ -17,7 +17,7 @@
 
 以下是一些常用工具使用教程：
 
-#### Clash 使用教程（优先使用，目前最好用）
+#### Clash 使用教程
 
 [Windows](https://github.com/selierlin/Share-SSR-V2ray/blob/master/Clash/Clash_Windows.md) | [Mac](https://github.com/selierlin/Share-SSR-V2ray/blob/master/Clash/Clash_Mac.md) | [Android](https://github.com/selierlin/Share-SSR-V2ray/blob/master/Clash/Clash_Android.md) | [Linux](https://github.com/selierlin/Share-SSR-V2ray/blob/master/Clash/Clash_Linux.md)
 
